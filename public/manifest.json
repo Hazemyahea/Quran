@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "QuranKareem",
+  "version": "1.0",
+  "description": "Listen to Qouran",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "/images/qouran.webp"
+    }
+  },
+  "permissions": ["activeTab"],
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
+}

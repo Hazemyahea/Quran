@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Kufam:ital,wght@0,400..900;1,400..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
+body {
+  font-family: "Kufam", sans-serif;
+  direction: rtl;
+  padding: 5px 15px;
+}
+
+header {
+  background-image: url(../public/images/qouran.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+nav {
+  border-top: 2px solid #eee;
+}
+
+.dark {
+  background-color: #1e1e1e;
+  color: white;
+}
+
+.formDark {
+  background-color: #1e1e1e;
+}
+.custom-shadow {
+  box-shadow: 2px 12px 9px 8px gray;
+}
