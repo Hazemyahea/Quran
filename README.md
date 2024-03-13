@@ -4,12 +4,6 @@ This website provides a platform for users to listen to the Holy Quran recited b
 
 Website Link: Quran Recitation Portal [https://quran-mauve-xi.vercel.app/]
 
-###Instructions:
-
-1- Visit the provided website link.
-2- Explore the various recitations available.
-3 - Select your preferred reciter or chapter.
-4 - Enjoy listening to the Holy Quran at your convenience.
 
 ** Build With React **
 - use Context API
