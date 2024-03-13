@@ -8,3 +8,4 @@ Website Link: Quran Recitation Portal [https://quran-mauve-xi.vercel.app/]
 ** Build With React **
 - use Context API
 - useState - useEffect - useReducer
+- Tailwind 
